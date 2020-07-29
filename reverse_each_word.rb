@@ -11,7 +11,7 @@ end
 #  new_phrase = []
 #  a = phrase.split(" ")
  #   a.each do |rev|
-      new_phrase.push(rev.reverse)
+ #     new_phrase.push(rev.reverse)
 #    end
 #  new_phrase.join(" ")
  # end
