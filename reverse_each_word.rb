@@ -4,7 +4,7 @@ def reverse_each_word(phrase)
     a.collect do |rev|
       new_phrase.push(rev.reverse)
     end
-  
+  new_phrase.join(" ")
 end
 
 # def reverse_each_word(phrase)
